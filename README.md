@@ -1,7 +1,9 @@
 ### Olá, Me chamo Tiago Brunelli 👋
 
-- 😄 &nbsp; Sou Desenvolvedor Full Stack em formação, no momento explorando novas tecnologias e trazendo melhorias em softwares
-- 🎓 &nbsp; Estudando **Full Stack Web Developer** na <a href="www.growdev.com.br">GrowDev</a>.
+- 👷 &nbsp; No momento estou em transição de carreira, estou migrando da área da segurança privada que já estou há 7 anos para área da tecnologia em busca de inovação, crescimento e qualidade de vida.
+- 🌆 Nas horas vagas, gosto de procurar problemas para resolver, operar no Mercado Financeiro 📈 E tentar achar ideias "mirabolantes" que irão me deixar rico e famoso. 💸💡
+- 😄 &nbsp;Sou Desenvolvedor Full Stack em formação, no momento explorando novas tecnologias e trazendo melhorias em softwares 🖥️
+- 🎓 &nbsp;  Ensino Médio ✅ |  Ensino Superior ⏳ | No momento estudando **Full Stack Web Developer** na <a href="www.growdev.com.br">GrowDev</a>.
 
 - 🌱 &nbsp; Aprendendo mais sobre **Introdução a Computação | Front-End | Banco de Dados | Back-End | HTML5 | CSS | JavaScript | ReactJS | Java |**.
 
